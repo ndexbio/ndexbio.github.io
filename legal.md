@@ -2,6 +2,11 @@
 title: Terms of Use, License and Privacy Policy
 permalink: /legal/
 ---
+<style>
+  .page-content p {
+    text-align: justify;
+  }
+</style>
 
 _Last updated: November 12th, 2024_
 
