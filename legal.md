@@ -14,7 +14,7 @@ _Last updated: November 12th, 2024_
 
 This document describes the NDEx [Terms of Use](#terms), [License](#license), [Sources information](#sources) and [Privacy Policy](#privacy). You can click any of these links to navigate to the relevant section of the document.
 
-Should you have any questions or concerns, feel free [Contact us](https://home.ndexbio.org/contact-us/) anytime.
+Should you have any questions or concerns, feel free [Contact us](https://www.ndexbio.org/report-bug/) anytime.
 
 ## Terms of Use {#terms}
 
@@ -95,7 +95,7 @@ Depending on your jurisdiction, you may have the following rights regarding your
 - **Deletion** - You may request the deletion of your personal data, subject to certain legal exceptions.
 - **Withdrawal of consent** - If we process your data based on your consent, you have the right to withdraw your consent at any time.
 
-To exercise these rights, please [Contact us](https://home.ndexbio.org/contact-us/).
+To exercise these rights, please [Contact us](https://www.ndexbio.org/report-bug/).
 
 ### 6. Third-Party Links
 
@@ -113,7 +113,7 @@ We may update this Privacy Policy from time to time to reflect changes in our pr
 
 ### 9. Contact Us
 
-If you have any questions or concerns about this Privacy Policy, please [Contact us](https://home.ndexbio.org/contact-us/)
+If you have any questions or concerns about this Privacy Policy, please [Contact us](https://www.ndexbio.org/report-bug/)
 
 ---
 
