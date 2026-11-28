@@ -1,0 +1,144 @@
+{
+    "items": [
+
+        {
+            "type": "user",
+            "UUID": "9ecb7edd-5f30-11ef-a7fd-005056ae23aa",
+            "title": "GO-CAMs - Gene Ontology Causal Activity Models"
+        },
+
+        {
+            "type": "networkSet",
+            "UUID": "03a216ff-05b1-11f0-9806-005056ae3c32",
+            "title": "Hierarchical Cell Maps - Ideker Lab"
+        },
+
+        {
+            "type": "user",
+            "UUID": "301a91c6-a37b-11e4-bda0-000c29202374",
+            "title": "NCI Pathway Interaction Database (PID)"
+        },
+
+
+        {
+            "type": "networkSet",
+            "UUID": "bdba6a7a-488a-11ec-b3be-0ac135e8bacf",
+            "title": "INDRA GO - Machine-assembled networks"
+        },
+
+
+        {
+            "type": "user",
+            "UUID": "18988b37-c788-11e8-aaa6-0ac135e8bacf",
+            "title": "CBN - Causal Biological Networks database v2.0"
+},
+
+        {
+            "type": "user",
+            "UUID": "363f49e0-4cf0-11e9-9f06-0ac135e8bacf",
+            "title": "WikiPathways - Human pathways, cancer hallmarks and published pathway figures"
+        },
+
+        {
+            "type": "user",
+            "UUID": "0db1f2dc-103f-11e8-b939-0ac135e8bacf",
+            "title": "SIGNOR - Signaling, disease and COVID-19 pathways"
+        },
+
+
+        {
+            "type": "user",
+            "UUID": "000b522c-dca0-11e8-aaa6-0ac135e8bacf",
+            "title": "SPP - The Signaling Pathways Project "
+        },
+
+        {
+            "type": "user",
+            "UUID": "b47268a6-8112-11e6-b0a6-06603eb7f303",
+            "title": "CCMI collection - The Cancer Cell Map Initiative"
+        },
+
+        {
+            "type": "group",
+            "UUID": "81bc25d1-33d6-11e9-9f06-0ac135e8bacf",
+            "title": "HPMI collection - The Host Pathogen Map Initiative"
+        },
+
+        {
+            "type": "networkSet",
+            "UUID": "6edc924a-8db8-11eb-9e72-0ac135e8bacf",
+            "title": "The NDEx cancer collection"
+        },
+
+        {
+            "type": "networkSet",
+            "UUID": "67eb9e3d-b30e-11ea-aaef-0ac135e8bacf",
+            "title": "The NDEx Coronavirus collection"
+        },
+
+        {
+            "type": "user",
+            "UUID": "bae4da70-e22d-11ee-9621-005056ae23aa",
+            "title": "PCNet 2.0 - A comparison of 45 interaction networks"
+},
+
+        {
+            "type": "user",
+            "UUID": "aed0a36f-39db-11e8-8695-0ac135e8bacf",
+            "title": "STRING database - Human protein links with scores"
+        },
+
+
+        {
+            "type": "user",
+            "UUID": "7b97c33f-4673-11ed-b7d0-0ac135e8bacf",
+            "title": "HumanNet - Integrated Functional Networks"
+        },
+
+        {
+            "type": "networkSet",
+            "UUID": "ff56527a-aeab-11eb-9e72-0ac135e8bacf",
+            "title": "BioPLEX 3"
+        },
+
+        {
+            "type": "user",
+            "UUID": "0edf268f-df15-11e4-951c-000c29cb28fb",
+            "title": "BioGRID - PPIs for several species (Including Coronavirus)"
+        },
+
+
+        {
+            "type": "networkSet",
+            "UUID": "78f6dfb1-da27-11f0-a218-005056ae3c32",
+            "title": "FunCoup - Functional association networks"
+        },
+
+
+
+        {
+            "type": "networkSet",
+            "UUID": "4c2268a1-a0f0-11ea-aaef-0ac135e8bacf",
+            "title": "IMEx/IntAct Coronavirus dataset"
+        },
+
+        {
+            "type": "user",
+            "UUID": "91f585ec-83ef-11e9-848d-0ac135e8bacf",
+            "title": "ProteomeHD - Complete and Top 0.5% co-regulated human proteins networks"
+        },
+
+        {
+            "type": "network",
+            "UUID": "89dd3925-3718-11e9-9f06-0ac135e8bacf",
+            "title": "HIPPIE v2.2 - Human scored interactions"
+        },
+
+
+        {
+            "type": "networkSet",
+            "UUID": "813369af-8984-11ea-aaef-0ac135e8bacf",
+            "title": "HuRi Networks"
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "items": [
+
+        {
+            "type": "networkset",
+            "UUID": "78f6dfb1-da27-11f0-a218-005056ae3c32",
+            "imageURL": "https://ndexbio.github.io/contentrootpath/img/FC6Logo.png",
+            "title": "<b>FunCoup - (H. sapiens)</b>",
+            "text": "FunCoup is a framework to infer genome-wide functional couplings in 22 model organisms. It is developed by the Sonnhammer Lab at the Stockolm University."
+},
+
+        {
+            "type": "publication",
+            "imageURL": "https://ndexbio.github.io/contentrootpath/img/cy-web_logo_2.png",
+            "title": "<b>Cytoscape Web: bringing network biology to the browser</b>",
+            "text": "Cytoscape Web is an online implementation that captures the interface and key visualization functionalities of the desktop application while providing integration with web tools and databases.",
+            "URL": "https://doi.org/10.1093/nar/gkaf365"
+},
+
+        {
+            "type": "publication",
+            "imageURL": "https://ndexbio.github.io/contentrootpath/img/PCNet2_icon@3x.png",
+            "title": "<b>State of the Interactomes: an evaluation of molecular networks for generating biological insights</b>",
+            "text": "Comprehensive evaluation of 45 human interactomes, encompassing protein-protein interaction, regulatory, signaling, colocalization, and genetic interaction networks.",
+            "URL": "https://www.embopress.org/doi/full/10.1038/s44320-024-00077-y"
+},
+
+
+        {
+            "type": "publication",
+            "imageURL": "https://ars.els-cdn.com/content/image/1-s2.0-S0022202X23X00098-cov150h.gif",
+            "title": "<b>IL17A Blockade with Ixekizumab Suppresses MuvB Signaling in Clinical Psoriasis</b>",
+            "text": "This study positions the inhibition of MuvB signaling as an important determinant of the therapeutic impact of the anti–IL17A antibody ixekizumab (IXE) in psoriasis.",
+            "URL": "https://www.embopress.org/doi/full/10.1038/s44320-024-00077-y"
+},
+
+        {
+            "type": "networkset",
+            "UUID": "7bc65b82-2a2f-11ed-ac45-0ac135e8bacf",
+            "imageURL": "https://ndexbio.github.io/contentrootpath/img/pid_v2_logo.png",
+            "title": "<b>NCI PID v2.0</b>",
+            "text": "A renewed version of the popular NCI Pathway Interaction Database with up-to-date relationships provided by the INDRA system."
+},
+
+        {
+            "type": "networkset",
+            "UUID": "bdba6a7a-488a-11ec-b3be-0ac135e8bacf",
+            "imageURL": "https://ndexbio.github.io/contentrootpath/img/indra_logo.png",
+            "title": "<b>INDRA GO</b>",
+            "text": "A collection of machine-curated pathways, based on GO biological process terms and assembled with the INDRA system."
+},
+
+        {
+            "type": "publication",
+            "imageURL": "https://www.ndexbio.org/iquery/static/media/ndex-logo.f56fed50e0869937b95860eae24ceb6c.svg",
+            "title": "<b>NDEx IQuery: a multi-method network gene set analysis leveraging the Network Data Exchange</b>",
+            "text": "NDEx IQuery is a new web tool for network and pathway-based gene set interpretation.",
+            "URL": "https://doi.org/10.1093/bioinformatics/btad118"
+        },
+
+        {
+            "type": "publication",
+            "imageURL": "https://ndexbio.github.io/contentrootpath/img/curr_prot.jpg",
+            "title": "<b>NDEx: Accessing Network Models and Streamlining Network Biology Workflows</b>",
+            "text": "Discover how to use NDEx to access thousands of network models and streamline your workflows using our web UI, or programmatically in Python.",
+            "URL": "https://currentprotocols.onlinelibrary.wiley.com/doi/10.1002/cpz1.258"
+        }
+
+
+
+
+
+    ]
+}
