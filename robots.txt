@@ -1,0 +1,3 @@
+# The NDEx home page loads these files itself; they aren't pages to index.
+User-agent: *
+Disallow: /contentrootpath/

@@ -1,0 +1,19 @@
+{
+    "mainContent": [
+        {
+            "title": "Getting Started with IQuery",
+            "content": "doc4rudi.html"
+        },
+   	
+	{
+            "title": "Cytoscape Web Release",
+            "content": "doc5rudi.html"
+        },        
+
+	{
+            "title": "NIAID Data Portal",
+            "content": "doc9rudi.html"
+        }
+     
+    ]
+}
